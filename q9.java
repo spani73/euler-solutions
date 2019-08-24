@@ -1,5 +1,5 @@
 package demo;
-import java.lang.Math; 
+
 
 class NewClass2
 {
