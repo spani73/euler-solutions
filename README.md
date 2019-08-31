@@ -8,5 +8,5 @@ ph no.: 9348920602
 
 
 
-question 8 solution is little faulty so i did question 14 to make it 10 problems.
+
 THANK YOU
