@@ -9,12 +9,12 @@ public static void main(String args[])
     long large=100000;
     for (int i=0; i < number.length() -13; i++)
 {
-    product = number.charAt(i)-48;
-    for (int j=i+1; j<i+13; j++)
+    product = 1;;
+    for (int j=i; j<i+13; j++)
     {
-        product = product *(number.charAt(j)-48);
+        product = product *(number.charAt(j));
     }
-    if (large < product)
+    if (large <= product)
     {
         large = product;
     }
