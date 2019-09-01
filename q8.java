@@ -12,7 +12,7 @@ public static void main(String args[])
     product = 1;;
     for (int j=i; j<i+13; j++)
     {
-        product = product *(number.charAt(j));
+        product = product *(number.charAt(j)-'0');
     }
     if (large <= product)
     {
