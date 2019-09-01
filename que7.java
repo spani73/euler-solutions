@@ -18,7 +18,7 @@ public class NewClass
 	{
 		
 		long i, c=2,s=0;
-		for(i=3;c<=10001;i++)
+		for(i=3;c<=10001;i=i+2)
 		{
 			if(Prime(i)==1)
 			{
