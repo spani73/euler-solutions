@@ -18,7 +18,7 @@ public class NewClass
     {
     	long s=2;
     	int i;
-    	for(i=3;i< 2000000;i++)
+    	for(i=3;i< 2000000;i=i+2)
     	{
     		if(Prime(i)==0)
     		{
